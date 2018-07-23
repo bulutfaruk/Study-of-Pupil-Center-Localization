@@ -1,0 +1,14 @@
+Pupil center localization is an essential requirement for robust eye gaze tracking systems. Stability on the pupil center location is 
+the key metric for all gaze trackers since vibration on the pupil center location defects the accuracy of gaze on the eye tracking systems.
+In this paper, a low-cost pupil center localization algorithm is presented. The aim is to propose a computationally inexpensive algorithm 
+with high accuracy in terms of performance and processing speed. For this purpose, a computationally inexpensive pupil center localization 
+algorithm based on maximized integral voting of candidate kernels is presented. As the kernel type, a novel Circular Hollow Kernel (CHK) 
+is proposed. Estimation of pupil center is employed by applying a rule based schema for each pixel over the eye sockets. Additionally, 
+several features of CHK are proposed for maximizing the probability of voting for each kernel. Experimental results show promising results
+with 96.94% overall accuracy with around 13.89 milliseconds computational time (71.99 fps) for a single image as an average time by using
+a standard personal computer. Additionally, an extensive benchmarking study indicates that proposed method obtains the best results among 
+the methods without learning and almost the same results with other best methods with learning while processing speed is much higher and 
+no learning is required. Furthermore, proposed system is fast enough to run on an average PC and also applicable to work with even a 
+low-resolution webcam on real-time video stream.
+
+Keywords: Circular Hollow Kernel, CHK, Pupil Center Localization, Human-Computer Interface
