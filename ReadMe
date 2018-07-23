@@ -1,8 +1,13 @@
 /*
 
-This article has been submitted to a scientific magazine for evaluation. The related documents are publicly available here. The implemented JAVA codes of the proposed eye tracking estimation model -in which there are frontal both eye area detection, pupil detection, and eye tracking estimation- can be publicly downloaded from here for examinations, studies and citations.
+This article has been submitted to a scientific magazine for evaluation. The related documents are publicly available here. 
+The implemented JAVA codes of the proposed eye tracking estimation model -in which there are frontal both eye area detection, 
+pupil detection, and eye tracking estimation- can be publicly downloaded from here for examinations, studies and citations.
 
-The whole and original test files including BioID Dataset, code files (CircleDetector.pde, NumPair.pde, and PupilDetection.pde), and the output files can be publicly downloadable from the Dropbox page. In each of these 1520 output file, there are 4 results: LX, LY, RX, and RY values. There informations are Left X, Left Y, Right X, Right Y coordinates respectively. By the way, do not forget the install Java PROCESSING onto your PC from this web page.
+The whole and original test files including BioID Dataset, code files (CircleDetector.pde, NumPair.pde, and PupilDetection.pde), 
+and the output files can be publicly downloadable from the Dropbox page. In each of these 1520 output file, 
+there are 4 results: LX, LY, RX, and RY values. There informations are Left X, Left Y, Right X, Right Y coordinates respectively. 
+By the way, do not forget the install Java PROCESSING onto your PC from this web page.
 
 Additionally, the full version of Table 3 in the manuscript can be examined below with the name Table_3_Original.docx 
 
