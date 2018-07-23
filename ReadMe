@@ -1,0 +1,28 @@
+/*
+
+This article has been submitted to a scientific magazine for evaluation. The related documents are publicly available here. The implemented JAVA codes of the proposed eye tracking estimation model -in which there are frontal both eye area detection, pupil detection, and eye tracking estimation- can be publicly downloaded from here for examinations, studies and citations.
+
+The whole and original test files including BioID Dataset, code files (CircleDetector.pde, NumPair.pde, and PupilDetection.pde), and the output files can be publicly downloadable from the Dropbox page. In each of these 1520 output file, there are 4 results: LX, LY, RX, and RY values. There informations are Left X, Left Y, Right X, Right Y coordinates respectively. By the way, do not forget the install Java PROCESSING onto your PC from this web page.
+
+Additionally, the full version of Table 3 in the manuscript can be examined below with the name Table_3_Original.docx 
+
+For any question, do not hesitate to contact with the writers who have made contributions to this study:
+
+Yusuf Sait Erdem
+Institute of Science, Dokuz Eylul University, Izmir - Turkey
+[e-mail: yusuf.erdem (at) ogr.deu.edu.tr]
+
+Ibrahim Furkan Ince
+Department of Electrical and Electronics Engineering, Kyungsung University, Busan – South Korea
+[e-mail: furkanince (at) ks (dot) ac (dot) kr]
+
+Faruk Bulut
+Faculty of Engineering, Istanbul Rumeli University, Turkey
+[e-mail: faruk (dot) bulut (at) rumeli (dot) edu (dot) tr]
+
+Md. Haidar SHARIF
+Faculty of Engineering, International Balkan University
+Skopje - Republic of Macedonia
+[e-mail: msharif (at) ibu (dot) edu (dot) mk]
+
+*/
