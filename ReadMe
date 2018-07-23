@@ -1,5 +1,10 @@
 /*
 
+**************************************************************************************************************************************
+All the details and explanations can be found at this web site:
+https://sites.google.com/site/bulutfaruk/study-of-pupil-center-localization
+**************************************************************************************************************************************
+
 This article has been submitted to a scientific magazine for evaluation. The related documents are publicly available here. 
 The implemented JAVA codes of the proposed eye tracking estimation model -in which there are frontal both eye area detection, 
 pupil detection, and eye tracking estimation- can be publicly downloaded from here for examinations, studies and citations.
