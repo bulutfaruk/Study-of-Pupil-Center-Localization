@@ -5,18 +5,55 @@ All the details and explanations can be found at this web site:
 https://sites.google.com/site/bulutfaruk/study-of-pupil-center-localization
 **************************************************************************************************************************************
 
-This article has been submitted to a scientific magazine for evaluation. The related documents are publicly available here. 
-The implemented JAVA codes of the proposed eye tracking estimation model -in which there are frontal both eye area detection, 
-pupil detection, and eye tracking estimation- can be publicly downloaded from here for examinations, studies and citations.
 
-The whole and original test files including BioID Dataset, code files (CircleDetector.pde, NumPair.pde, and PupilDetection.pde), 
-and the output files can be publicly downloadable from the Dropbox page. In each of these 1520 output file, 
-there are 4 results: LX, LY, RX, and RY values. There informations are Left X, Left Y, Right X, Right Y coordinates respectively. 
-By the way, do not forget the install Java PROCESSING onto your PC from this web page.
+Research Article title: 
 
+A Low-Cost Pupil Center Localization Algorithm based on Maximized Integral Voting of Circular Hollow Kernels
+
+
+Citation: Ince, Ibrahim Furkan, Yusuf Sait Erdem, Faruk Bulut, and Md Haidar Sharif. "A low-cost pupil center localization algorithm based on maximized integral voting of circular hollow kernels." The Computer Journal 62, no. 7 (2019): 1001-1015.
+
+
+Explanation
+
+This article has been submitted to a scientific magazine for evaluation. The related documents are publicly available here. The implemented JAVA codes of the proposed eye tracking estimation model -in which there are frontal both eye area detection, pupil detection, and eye tracking estimation- can be publicly downloaded from here for examinations, studies and citations.
+
+Dataset:
+The whole and original test files including BioID Dataset, and the output files can be publicly downloadable from the authors. In each of these 1520 output file, there are 4 results: LX, LY, RX, and RY values. Their information is Left X, Left Y, Right X, Right Y coordinates respectively. All the dataset is downloadable here.
+
+Processing:
+By the way, do not forget the install Java PROCESSING onto your PC. All the codes have been executed in the Processing 2.2.1 environment, therefore Processing should be downloaded here.
+
+Windows 32 bit:
+http://download.processing.org/processing-2.2.1-windows32.zip
+
+Windows 64 bit: 
+http://download.processing.org/processing-2.2.1-windows64.zip
+
+Linux 32 bit:
+http://download.processing.org/processing-2.2.1-linux32.tgz
+
+Linux 64 bit:
+http://download.processing.org/processing-2.2.1-linux64.tgz
+
+Mac OS X:
+http://download.processing.org/processing-2.2.1-macosx.zip
+
+
+Codes:
+All the Java codes for the proposed model here: Win32 and Win64.
+
+
+Extra Documents
 Additionally, the full version of Table 3 in the manuscript can be examined below with the name Table_3_Original.docx 
 
-For any question, do not hesitate to contact with the writers who have made contributions to this study:
+
+Github
+You can find the similar explanation and the related documents at the Github environment: https://github.com/bulutfaruk/Study-of-Pupil-Center-Localization/
+
+
+Questions
+For any question, do not hesitate to contact the writers who have made contributions to this study:
 
 Yusuf Sait Erdem
 Institute of Science, Dokuz Eylul University, Izmir - Turkey
@@ -27,12 +64,10 @@ Department of Electrical and Electronics Engineering, Kyungsung University, Busa
 [e-mail: furkanince (at) ks (dot) ac (dot) kr]
 
 Faruk Bulut
-Faculty of Engineering, Istanbul Rumeli University, Turkey
+Faculty of Engineering, Katip Çelebi University, Izmir- Turkey
 [e-mail: faruk (dot) bulut (at) rumeli (dot) edu (dot) tr]
 
 Md. Haidar SHARIF
 Faculty of Engineering, International Balkan University
 Skopje - Republic of Macedonia
 [e-mail: msharif (at) ibu (dot) edu (dot) mk]
-
-*/
